@@ -51,7 +51,7 @@ Or from the KDE Store: System Settings → Colors & Themes → Window Decoration
 | KWin script: active window under review | [redacted-static](https://github.com/numbpill3d/redacted-static) |
 | Clock plasmoid | [redacted-clock](https://github.com/numbpill3d/redacted-clock) |
 
-Everything at once, with the generators: [redacted](https://github.com/numbpill3d/redacted).
+Everything at once, with the generators: [redacted-kde](https://github.com/numbpill3d/redacted-kde).
 
 ## Tags
 
